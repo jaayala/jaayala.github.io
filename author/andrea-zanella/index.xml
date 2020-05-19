@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Zanella | Jose A. Ayala-Romero</title>
+    <link>/author/andrea-zanella/</link>
+      <atom:link href="/author/andrea-zanella/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Zanella</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrea Zanella</title>
+      <link>/author/andrea-zanella/</link>
+    </image>
+    
+    <item>
+      <title>Online Learning for Energy Saving and Interference Coordination in HetNets</title>
+      <link>/publication/2019_jsac/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_jsac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Bandit Approach for Energy Saving and Interference Coordination in HetNets</title>
+      <link>/publication/2018_icc/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_icc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

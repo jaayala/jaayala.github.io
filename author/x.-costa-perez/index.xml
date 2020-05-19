@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X. Costa-Perez | Jose A. Ayala-Romero</title>
+    <link>/author/x.-costa-perez/</link>
+      <atom:link href="/author/x.-costa-perez/index.xml" rel="self" type="application/rss+xml" />
+    <description>X. Costa-Perez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
+      <title>X. Costa-Perez</title>
+      <link>/author/x.-costa-perez/</link>
+    </image>
+    
+    <item>
+      <title>vrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs</title>
+      <link>/publication/2019_mobicom/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_mobicom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo: vrAIn Proof-of-Concept - A Deep Learning Approach for Virtualized RAN Resource Control</title>
+      <link>/publication/2019_mobicom_demo/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_mobicom_demo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

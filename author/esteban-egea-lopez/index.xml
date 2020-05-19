@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esteban Egea-Lopez | Jose A. Ayala-Romero</title>
+    <link>/author/esteban-egea-lopez/</link>
+      <atom:link href="/author/esteban-egea-lopez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Esteban Egea-Lopez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
+      <title>Esteban Egea-Lopez</title>
+      <link>/author/esteban-egea-lopez/</link>
+    </image>
+    
+    <item>
+      <title>Online Optimization of Interference Coordination Parameters in Small Cell Networks</title>
+      <link>/publication/2017_twc/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_twc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Learning for Interference Coordination in Heterogeneous Networks</title>
+      <link>/publication/2017_icc/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017_icc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
