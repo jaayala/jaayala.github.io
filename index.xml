@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jose A. Ayala-Romero</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
       <title>Jose A. Ayala-Romero</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Contextual Bandit Approach for Energy Saving and Interference Coordination in HetNets</title>
+      <link>/publication/2020_globecom/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_globecom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Learning for Energy Saving and Interference Coordination in HetNets</title>
+      <link>/publication/2020_ett/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020_ett/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>vrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs</title>
