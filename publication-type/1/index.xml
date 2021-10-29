@@ -5,12 +5,20 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>EdgeBOL: Automating Energy-savings for Mobile Edge AI</title>
+      <link>/publication/2021_conext/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021_conext/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Experimental Evaluation of Power Consumption in Virtualized Base Stations</title>
@@ -33,14 +41,6 @@
       <link>/publication/2021_infocom_1/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/2021_infocom_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EdgeBOL: Automating Energy-savings for Mobile Edge AI</title>
-      <link>/publication/2021_conext/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021_conext/</guid>
       <description></description>
     </item>
     
