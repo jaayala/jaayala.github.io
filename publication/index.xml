@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>KRAF: A Flexible Advertising Framework using Knowledge Graph-Enriched Multi-Agent Reinforcement Learning</title>
+      <link>/publication/2022_cikm/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022_cikm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EdgeBOL: Automating Energy-savings for Mobile Edge AI</title>
