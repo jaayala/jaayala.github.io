@@ -5,7 +5,7 @@
     <link>/author/leonardo-lo-schiavo/</link>
       <atom:link href="/author/leonardo-lo-schiavo/index.xml" rel="self" type="application/rss+xml" />
     <description>Leonardo Lo Schiavo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
       <title>Leonardo Lo Schiavo</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>YinYangRAN: Resource Multiplexing in GPU-Accelerated Virtualized RANs</title>
-      <link>/publication/2024_infocom_2/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/2024_infocom_2/</guid>
+      <title>Mean-Field Multi-Agent Contextual Bandit for Energy-Efficient Resource Allocation in vRANs</title>
+      <link>/publication/2024_infocom_1/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024_infocom_1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mean-Field Multi-Agent Contextual Bandit for Energy-Efficient Resource Allocation in vRANs</title>
-      <link>/publication/2024_infocom_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/2024_infocom_1/</guid>
+      <title>YinYangRAN: Resource Multiplexing in GPU-Accelerated Virtualized RANs</title>
+      <link>/publication/2024_infocom_2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024_infocom_2/</guid>
       <description></description>
     </item>
     
