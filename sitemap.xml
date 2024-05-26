@@ -83,7 +83,32 @@
   </url>
   
   <url>
+    <loc>/author/ethan-sanchez-hidalgo/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.-xavier-salvat/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.-xavier-salvat-lozano/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/marco-fiore/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2024_icmlcn/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xi-li/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,11 +119,6 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/j.-xavier-salvat/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url>
   

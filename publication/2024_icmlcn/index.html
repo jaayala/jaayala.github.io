@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="RAN virtualization is revolutionizing the telco industry, enabling 5G Distributed Units to run using general-purpose platforms equipped with Hardware Accelerators (HAs). Recently, GPUs have been proposed as HAs, hinging on their unique capability to execute 5G PHY operations efficiently while also processing Machine Learning (ML) workloads. While this ambivalence makes GPUs attractive for cost-effective deployments, we experimentally demonstrate that multiplexing 5G and ML workloads in GPUs is in fact challenging, and that using conventional GPU-sharing methods can severely disrupt 5G operations. We then introduce YinYangRAN, an innovative O-RAN-compliant solution that supervises GPU-based HAs so as to ensure reliability in the 5G processing pipeline while maximizing the throughput of concurrent ML services. YinYangRAN performs GPU resource allocation decisions via a computationally-efficient approximate dynamic programming technique, which is informed by a neural network trained on real-world measurements. Using workloads collected in real RANs, we demonstrate that YinYangRAN can achieve over 50% higher 5G processing reliability than conventional GPU sharing models with minimal impact on co-located ML workloads. To our knowledge, this is the first work identifying and addressing the complex problem of HA management in emerging GPU-accelerated vRANs, and represents a promising step towards multiplexing PHY and ML workloads in mobile networks.">
+  <meta name="description" content="The virtualization of Radio Access Networks (vRAN) is well on its way to become a reality, driven by its advantages such as flexibility and cost-effectiveness. However, virtualization comes at a high price - virtual Base Stations (vBSs) sharing the same computing platform incur a significant computing overhead due to in extremis consumption of shared cache memory resources. Consequently, vRAN suffers from increased energy consumption, which fuels the already high operational costs in 5G networks. This paper investigates cache memory allocation mechanisms&#39; effectiveness in reducing total energy consumption. Using an experimental vRAN platform, we profile the energy consumption and CPU utilization of vBS as a function of the network state (e.g., traffic demand, modulation scheme). Then, we address the high dimensionality of the problem by decomposing it per vBS, which is possible thanks to the Last-Level Cache (LLC) isolation implemented in our system. Based on this, we train a vBS digital twin, which allows us to train offline a classifier, avoiding the performance degradation of the system during training. Our results show that our approach performs very closely to an offline optimal oracle, outperforming standard approaches used in today&#39;s deployments.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/2024_infocom_2/">
+  <link rel="alternate" hreflang="en-us" href="/publication/2024_icmlcn/">
 
   
 
@@ -255,7 +255,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/publication/2024_infocom_2/">
+  <link rel="canonical" href="/publication/2024_icmlcn/">
 
   
   
@@ -271,9 +271,9 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Jose A. Ayala-Romero">
-  <meta property="og:url" content="/publication/2024_infocom_2/">
-  <meta property="og:title" content="YinYangRAN: Resource Multiplexing in GPU-Accelerated Virtualized RANs | Jose A. Ayala-Romero">
-  <meta property="og:description" content="RAN virtualization is revolutionizing the telco industry, enabling 5G Distributed Units to run using general-purpose platforms equipped with Hardware Accelerators (HAs). Recently, GPUs have been proposed as HAs, hinging on their unique capability to execute 5G PHY operations efficiently while also processing Machine Learning (ML) workloads. While this ambivalence makes GPUs attractive for cost-effective deployments, we experimentally demonstrate that multiplexing 5G and ML workloads in GPUs is in fact challenging, and that using conventional GPU-sharing methods can severely disrupt 5G operations. We then introduce YinYangRAN, an innovative O-RAN-compliant solution that supervises GPU-based HAs so as to ensure reliability in the 5G processing pipeline while maximizing the throughput of concurrent ML services. YinYangRAN performs GPU resource allocation decisions via a computationally-efficient approximate dynamic programming technique, which is informed by a neural network trained on real-world measurements. Using workloads collected in real RANs, we demonstrate that YinYangRAN can achieve over 50% higher 5G processing reliability than conventional GPU sharing models with minimal impact on co-located ML workloads. To our knowledge, this is the first work identifying and addressing the complex problem of HA management in emerging GPU-accelerated vRANs, and represents a promising step towards multiplexing PHY and ML workloads in mobile networks."><meta property="og:image" content="/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="/publication/2024_icmlcn/">
+  <meta property="og:title" content="MemorAI: Energy-Efficient Last-Level Cache Memory Optimization for Virtualized RANs | Jose A. Ayala-Romero">
+  <meta property="og:description" content="The virtualization of Radio Access Networks (vRAN) is well on its way to become a reality, driven by its advantages such as flexibility and cost-effectiveness. However, virtualization comes at a high price - virtual Base Stations (vBSs) sharing the same computing platform incur a significant computing overhead due to in extremis consumption of shared cache memory resources. Consequently, vRAN suffers from increased energy consumption, which fuels the already high operational costs in 5G networks. This paper investigates cache memory allocation mechanisms&#39; effectiveness in reducing total energy consumption. Using an experimental vRAN platform, we profile the energy consumption and CPU utilization of vBS as a function of the network state (e.g., traffic demand, modulation scheme). Then, we address the high dimensionality of the problem by decomposing it per vBS, which is possible thanks to the Last-Level Cache (LLC) isolation implemented in our system. Based on this, we train a vBS digital twin, which allows us to train offline a classifier, avoiding the performance degradation of the system during training. Our results show that our approach performs very closely to an offline optimal oracle, outperforming standard approaches used in today&#39;s deployments."><meta property="og:image" content="/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -301,16 +301,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/2024_infocom_2/"
+    "@id": "/publication/2024_icmlcn/"
   },
-  "headline": "YinYangRAN: Resource Multiplexing in GPU-Accelerated Virtualized RANs",
+  "headline": "MemorAI: Energy-Efficient Last-Level Cache Memory Optimization for Virtualized RANs",
   
   "datePublished": "2024-01-01T00:00:00Z",
   "dateModified": "2024-01-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Leonardo Lo Schiavo"
+    "name": "Ethan Sanchez Hidalgo"
   },
   
   "publisher": {
@@ -321,7 +321,7 @@
       "url": "/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "RAN virtualization is revolutionizing the telco industry, enabling 5G Distributed Units to run using general-purpose platforms equipped with Hardware Accelerators (HAs). Recently, GPUs have been proposed as HAs, hinging on their unique capability to execute 5G PHY operations efficiently while also processing Machine Learning (ML) workloads. While this ambivalence makes GPUs attractive for cost-effective deployments, we experimentally demonstrate that multiplexing 5G and ML workloads in GPUs is in fact challenging, and that using conventional GPU-sharing methods can severely disrupt 5G operations. We then introduce YinYangRAN, an innovative O-RAN-compliant solution that supervises GPU-based HAs so as to ensure reliability in the 5G processing pipeline while maximizing the throughput of concurrent ML services. YinYangRAN performs GPU resource allocation decisions via a computationally-efficient approximate dynamic programming technique, which is informed by a neural network trained on real-world measurements. Using workloads collected in real RANs, we demonstrate that YinYangRAN can achieve over 50% higher 5G processing reliability than conventional GPU sharing models with minimal impact on co-located ML workloads. To our knowledge, this is the first work identifying and addressing the complex problem of HA management in emerging GPU-accelerated vRANs, and represents a promising step towards multiplexing PHY and ML workloads in mobile networks."
+  "description": "The virtualization of Radio Access Networks (vRAN) is well on its way to become a reality, driven by its advantages such as flexibility and cost-effectiveness. However, virtualization comes at a high price - virtual Base Stations (vBSs) sharing the same computing platform incur a significant computing overhead due to in extremis consumption of shared cache memory resources. Consequently, vRAN suffers from increased energy consumption, which fuels the already high operational costs in 5G networks. This paper investigates cache memory allocation mechanisms' effectiveness in reducing total energy consumption. Using an experimental vRAN platform, we profile the energy consumption and CPU utilization of vBS as a function of the network state (e.g., traffic demand, modulation scheme). Then, we address the high dimensionality of the problem by decomposing it per vBS, which is possible thanks to the Last-Level Cache (LLC) isolation implemented in our system. Based on this, we train a vBS digital twin, which allows us to train offline a classifier, avoiding the performance degradation of the system during training. Our results show that our approach performs very closely to an offline optimal oracle, outperforming standard approaches used in today's deployments."
 }
 </script>
 
@@ -339,7 +339,7 @@
 
 
 
-  <title>YinYangRAN: Resource Multiplexing in GPU-Accelerated Virtualized RANs | Jose A. Ayala-Romero</title>
+  <title>MemorAI: Energy-Efficient Last-Level Cache Memory Optimization for Virtualized RANs | Jose A. Ayala-Romero</title>
 
 </head>
 
@@ -563,7 +563,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>YinYangRAN: Resource Multiplexing in GPU-Accelerated Virtualized RANs</h1>
+  <h1>MemorAI: Energy-Efficient Last-Level Cache Memory Optimization for Virtualized RANs</h1>
 
   
 
@@ -581,7 +581,7 @@
     
 
   
-  <span>Leonardo Lo Schiavo</span>, <span>Jose A. Ayala-Romero</span>, <span>Andres Garcia-Saavedra</span>, <span>Marco Fiore</span>, <span>Xavier Costa-Perez</span>
+  <span>Ethan Sanchez Hidalgo</span>, <span>J. Xavier Salvat Lozano</span>, <span>Jose A. Ayala-Romero</span>, <span>Andres Garcia-Saavedra</span>, <span>Xi Li</span>, <span>Xavier Costa-Perez</span>
   </div>
   
   
@@ -637,7 +637,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="/papers/24_infocom_2.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/papers/24_icmlcn.pdf" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -651,7 +651,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/2024_infocom_2/cite.bib">
+        data-filename="/publication/2024_icmlcn/cite.bib">
   Cite
 </button>
 
@@ -681,7 +681,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">RAN virtualization is revolutionizing the telco industry, enabling 5G Distributed Units to run using general-purpose platforms equipped with Hardware Accelerators (HAs). Recently, GPUs have been proposed as HAs, hinging on their unique capability to execute 5G PHY operations efficiently while also processing Machine Learning (ML) workloads. While this ambivalence makes GPUs attractive for cost-effective deployments, we experimentally demonstrate that multiplexing 5G and ML workloads in GPUs is in fact challenging, and that using conventional GPU-sharing methods can severely disrupt 5G operations. We then introduce YinYangRAN, an innovative O-RAN-compliant solution that supervises GPU-based HAs so as to ensure reliability in the 5G processing pipeline while maximizing the throughput of concurrent ML services. YinYangRAN performs GPU resource allocation decisions via a computationally-efficient approximate dynamic programming technique, which is informed by a neural network trained on real-world measurements. Using workloads collected in real RANs, we demonstrate that YinYangRAN can achieve over 50% higher 5G processing reliability than conventional GPU sharing models with minimal impact on co-located ML workloads. To our knowledge, this is the first work identifying and addressing the complex problem of HA management in emerging GPU-accelerated vRANs, and represents a promising step towards multiplexing PHY and ML workloads in mobile networks.</p>
+    <p class="pub-abstract">The virtualization of Radio Access Networks (vRAN) is well on its way to become a reality, driven by its advantages such as flexibility and cost-effectiveness. However, virtualization comes at a high price - virtual Base Stations (vBSs) sharing the same computing platform incur a significant computing overhead due to in extremis consumption of shared cache memory resources. Consequently, vRAN suffers from increased energy consumption, which fuels the already high operational costs in 5G networks. This paper investigates cache memory allocation mechanisms&rsquo; effectiveness in reducing total energy consumption. Using an experimental vRAN platform, we profile the energy consumption and CPU utilization of vBS as a function of the network state (e.g., traffic demand, modulation scheme). Then, we address the high dimensionality of the problem by decomposing it per vBS, which is possible thanks to the Last-Level Cache (LLC) isolation implemented in our system. Based on this, we train a vBS digital twin, which allows us to train offline a classifier, avoiding the performance degradation of the system during training. Our results show that our approach performs very closely to an offline optimal oracle, outperforming standard approaches used in today&rsquo;s deployments.</p>
     
 
     
@@ -711,7 +711,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>IEEE International Conference on Computer Communications (INFOCOM) 2024</em></div>
+          <div class="col-12 col-md-9"><em>IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN) 2024</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -742,7 +742,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/2024_infocom_2/&amp;text=YinYangRAN:%20Resource%20Multiplexing%20in%20GPU-Accelerated%20Virtualized%20RANs" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/2024_icmlcn/&amp;text=MemorAI:%20Energy-Efficient%20Last-Level%20Cache%20Memory%20Optimization%20for%20Virtualized%20RANs" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -755,7 +755,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/2024_infocom_2/&amp;t=YinYangRAN:%20Resource%20Multiplexing%20in%20GPU-Accelerated%20Virtualized%20RANs" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/2024_icmlcn/&amp;t=MemorAI:%20Energy-Efficient%20Last-Level%20Cache%20Memory%20Optimization%20for%20Virtualized%20RANs" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -768,7 +768,7 @@
       
       
       <li>
-        <a href="mailto:?subject=YinYangRAN:%20Resource%20Multiplexing%20in%20GPU-Accelerated%20Virtualized%20RANs&amp;body=/publication/2024_infocom_2/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=MemorAI:%20Energy-Efficient%20Last-Level%20Cache%20Memory%20Optimization%20for%20Virtualized%20RANs&amp;body=/publication/2024_icmlcn/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -781,7 +781,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/2024_infocom_2/&amp;title=YinYangRAN:%20Resource%20Multiplexing%20in%20GPU-Accelerated%20Virtualized%20RANs" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/2024_icmlcn/&amp;title=MemorAI:%20Energy-Efficient%20Last-Level%20Cache%20Memory%20Optimization%20for%20Virtualized%20RANs" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -794,7 +794,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=YinYangRAN:%20Resource%20Multiplexing%20in%20GPU-Accelerated%20Virtualized%20RANs%20/publication/2024_infocom_2/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=MemorAI:%20Energy-Efficient%20Last-Level%20Cache%20Memory%20Optimization%20for%20Virtualized%20RANs%20/publication/2024_icmlcn/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -807,7 +807,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/2024_infocom_2/&amp;title=YinYangRAN:%20Resource%20Multiplexing%20in%20GPU-Accelerated%20Virtualized%20RANs" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/2024_icmlcn/&amp;title=MemorAI:%20Energy-Efficient%20Last-Level%20Cache%20Memory%20Optimization%20for%20Virtualized%20RANs" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -824,6 +824,17 @@
 
 
 
+
+
+  
+    
+    
+
+
+
+
+
+  
 
 
   
