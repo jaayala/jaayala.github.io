@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oriol Sallent | Jose A. Ayala-Romero</title>
+    <link>/author/oriol-sallent/</link>
+      <atom:link href="/author/oriol-sallent/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oriol Sallent</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_3.png</url>
+      <title>Oriol Sallent</title>
+      <link>/author/oriol-sallent/</link>
+    </image>
+    
+    <item>
+      <title>Comparative Analysis of Reconfigurable Intelligent Surfaces and Relay Nodes for Energy Saving</title>
+      <link>/publication/2025_eucnc/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2025_eucnc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

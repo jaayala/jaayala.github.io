@@ -5,12 +5,52 @@
     <link>/author/andres-garcia-saavedra/</link>
       <atom:link href="/author/andres-garcia-saavedra/index.xml" rel="self" type="application/rss+xml" />
     <description>Andres Garcia-Saavedra</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_3.png</url>
       <title>Andres Garcia-Saavedra</title>
       <link>/author/andres-garcia-saavedra/</link>
     </image>
+    
+    <item>
+      <title>SPIFF: Selective Preservation of Image Fidelity for Bandwidth-constrained Heterogeneous Networks</title>
+      <link>/publication/2026_infocom/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_infocom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Computing in the RAN with Qu4Fec: Closing Gaps Towards Quantum-based FEC processors</title>
+      <link>/publication/2025_sigmetrics/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2025_sigmetrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FairRIC: Real-time Fair Allocation in O-RAN with Shared Computing</title>
+      <link>/publication/2025_infocom_2/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2025_infocom_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kairos: Energy-efficient radio unit control for O-RAN via advanced sleep modes</title>
+      <link>/publication/2025_infocom_1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2025_infocom_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TelecomRAG: Taming Telecom Standards with Retrieval Augmented Generation and LLMs</title>
+      <link>/publication/2025_sigcom_ccr/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2025_sigcom_ccr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fair Resource Allocation in Virtualized O-RAN Platforms</title>

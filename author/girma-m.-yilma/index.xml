@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Girma M. Yilma | Jose A. Ayala-Romero</title>
+    <link>/author/girma-m.-yilma/</link>
+      <atom:link href="/author/girma-m.-yilma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Girma M. Yilma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_3.png</url>
+      <title>Girma M. Yilma</title>
+      <link>/author/girma-m.-yilma/</link>
+    </image>
+    
+    <item>
+      <title>TelecomRAG: Taming Telecom Standards with Retrieval Augmented Generation and LLMs</title>
+      <link>/publication/2025_sigcom_ccr/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2025_sigcom_ccr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
