@@ -92,6 +92,21 @@
     <loc>/publication/2025_sigcom_ccr/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/6g/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/ai/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/origami/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/a.-garcia-saavedra/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -259,7 +274,5 @@
     <loc>/post/</loc>
   </url><url>
     <loc>/talk/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>

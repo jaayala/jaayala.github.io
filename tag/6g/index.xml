@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6G | Jose A. Ayala-Romero</title>
+    <link>/tag/6g/</link>
+      <atom:link href="/tag/6g/index.xml" rel="self" type="application/rss+xml" />
+    <description>6G</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_3.png</url>
+      <title>6G</title>
+      <link>/tag/6g/</link>
+    </image>
+    
+    <item>
+      <title>ORIGAMI</title>
+      <link>/project/origami/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/project/origami/</guid>
+      <description>&lt;p&gt;ORIGAMI aims at spearheading the next-generation of mobile network architectures, overcoming eight factual barriers to a successful 6G future. To this end, the project proposes three critical architectural innovations -Global Service-based Architecture (GSBA), Zero-Trust Exposure Layer (ZTL), and Compute Continuum Layer (CCL)- and multiple Network Intelligence (NI) solutions empowered by such innovations. Thanks to its contributions, ORIGAMI strives to create global single standards, promote green transition, boost affordability and accessibility, and inspire ground-breaking applications and fresh business models.
+More precisely, the novel GSBA proposed by ORIGAMI will streamline communication and interoperability across network planes, paving the way for truly global standards. The AI-aided CCL will democratize access to extremely heterogeneous computing resources and will boost resource sharing with reliability guarantees, encouraging green transition, sustainability and greater accessibility. In turn, the ZTL will enable third-party players to securely program their virtual networks in zero-trust arenas, driving innovative high-value applications and creative business models. ORIGAMI will also emphasize a robust design of AI/ML models that is tailored to the unique requirements of network environments, and that is dependable, explainable, and unbiased; this will foster a reliable 6G system that avoids corner case errors, setting the stage for a more connected, efficient, and sustainable telecommunications future.
+To assess the effectiveness of the proposed innovations, ORIGAMI will carry out eight real-world demonstrations across six experimental sites and two large-scale international datasets from two major operators and validate its findings against twelve ambitious KPI targets.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
