@@ -5,12 +5,20 @@
     <link>/author/josep-xavier-salvat-lozano/</link>
       <atom:link href="/author/josep-xavier-salvat-lozano/index.xml" rel="self" type="application/rss+xml" />
     <description>Josep Xavier Salvat Lozano</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
       <title>Josep Xavier Salvat Lozano</title>
       <link>/author/josep-xavier-salvat-lozano/</link>
     </image>
+    
+    <item>
+      <title>AegisRAN: A Fair and Energy-Efficient Computing Resource Allocation Framework for vRANs</title>
+      <link>/publication/2025_tmc/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/2025_tmc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparative Analysis of Reconfigurable Intelligent Surfaces and Relay Nodes for Energy Saving</title>
@@ -25,14 +33,6 @@
       <link>/publication/2025_infocom_1/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/publication/2025_infocom_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AegisRAN: A Fair and Energy-Efficient Computing Resource Allocation Framework for vRANs</title>
-      <link>/publication/2025_tmc/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2025_tmc/</guid>
       <description></description>
     </item>
     

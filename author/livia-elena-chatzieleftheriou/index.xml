@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Livia Elena Chatzieleftheriou | Jose A. Ayala-Romero</title>
+    <link>/author/livia-elena-chatzieleftheriou/</link>
+      <atom:link href="/author/livia-elena-chatzieleftheriou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Livia Elena Chatzieleftheriou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
+      <title>Livia Elena Chatzieleftheriou</title>
+      <link>/author/livia-elena-chatzieleftheriou/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Viability of Automated Heuristic Design for 5G LDPC Decoding</title>
+      <link>/publication/2026_iccspa/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_iccspa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Heuristic Design for Network Operations</title>
+      <link>/publication/2026_arxiv_2/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_arxiv_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energy efficiency | Jose A. Ayala-Romero</title>
+    <link>/tag/energy-efficiency/</link>
+      <atom:link href="/tag/energy-efficiency/index.xml" rel="self" type="application/rss+xml" />
+    <description>Energy efficiency</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
+      <title>Energy efficiency</title>
+      <link>/tag/energy-efficiency/</link>
+    </image>
+    
+    <item>
+      <title>BeGREEN</title>
+      <link>/project/begreen/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/project/begreen/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;BeGREEN&lt;/strong&gt; (&lt;em&gt;Beyond 5G Artificial Intelligence Assisted Energy Efficient Open Radio Access Network&lt;/em&gt;) is a Horizon Europe project funded by the Smart Networks and Services Joint Undertaking (SNS JU) under the &lt;em&gt;Green Radio Technology&lt;/em&gt; call. The consortium is coordinated by Gigasys Solutions and brings together operators, vendors, research institutes and universities, including NEC Laboratories Europe.&lt;/p&gt;
+&lt;p&gt;Telecom operators account for 2-3% of global energy consumption, and around 70% of a mobile network&amp;rsquo;s energy is consumed in the Radio Access Network (RAN). BeGREEN takes a holistic view of evolving radio networks so that they not only accommodate increasing traffic and service levels, but also treat power consumption as a first-class design factor. Taking the emerging O-RAN architecture as its baseline, the project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;develops AI/ML-based solutions for RAN control at the non-real-time and near-real-time RAN Intelligent Controllers (RICs) to improve energy efficiency, addressing problems such as interference management, resource allocation, user-to-cell association and cell switching on/off;&lt;/li&gt;
+&lt;li&gt;designs energy-efficient hardware acceleration and distributed processing schemes for virtualized RAN functions;&lt;/li&gt;
+&lt;li&gt;explores joint communication and sensing, digital twins, Reconfigurable Intelligent Surfaces (RIS) and cell-free architectures as means to deliver capacity with lower power consumption;&lt;/li&gt;
+&lt;li&gt;establishes a techno-economic basis to assess technology choices with energy efficiency as an explicit characteristic rather than an afterthought.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

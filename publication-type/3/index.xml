@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Jose A. Ayala-Romero</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Automated Heuristic Design for Network Operations</title>
+      <link>/publication/2026_arxiv_2/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_arxiv_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Entanglement Distribution Protocols: Maximizing Classical Information in Quantum Networks</title>
+      <link>/publication/2026_arxiv_1/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_arxiv_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,21 +5,84 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
     
     <item>
+      <title>GENOME</title>
+      <link>/project/genome/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/project/genome/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Principal Investigator (PI)&lt;/strong&gt; on behalf of NEC Laboratories Europe.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;GENOME&lt;/strong&gt; (&lt;em&gt;GENerative and connected intelligence for 6G Open ManagEment&lt;/em&gt;) is a Marie Skłodowska-Curie Actions (MSCA) Doctoral Network funded by Horizon Europe. It trains a cohort of doctoral candidates across academic and industrial partners in Europe, including i2CAT, NEC Laboratories Europe, the University of Oulu, the Jožef Stefan Institute, Telefónica and the Universitat Politècnica de Catalunya.&lt;/p&gt;
+&lt;p&gt;The steep increase in network management parameters calls for extreme automation as mobile networks evolve towards 6G, making it challenging for human operators to oversee and adjust the network in real time. GENOME leverages Generative AI, and in particular distributed, edge-friendly (small) language models, to automate the management of the open RAN and the edge-cloud continuum. Its research is organized top-down:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;intent translation:&lt;/strong&gt; multimodal telecom foundation models that translate high-level networking intents into tasks;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task planning:&lt;/strong&gt; neuro-symbolic reasoning to plan network configurations, such as service function chains, in the O-RAN edge/cloud;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;connected intelligence:&lt;/strong&gt; multi-agent, multi-objective protocol learning among distributed network functions;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;trustworthiness:&lt;/strong&gt; explainability and robustness of AI-based network functions, in line with the EU AI Act.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Solutions are validated through system-level simulations and proofs of concept on the experimental platforms of the consortium partners, including NEC&amp;rsquo;s vRAN infrastructure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PROSPERO</title>
+      <link>/project/prospero/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/project/prospero/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;WP2 Leader&lt;/strong&gt; (Uniform, Integrated, Simplified 6G System Architecture) on behalf of NEC Laboratories Europe.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;PROSPERO&lt;/strong&gt; is a Horizon Europe project funded by the Smart Networks and Services Joint Undertaking (SNS JU), coordinated by Telefónica Innovación Digital, with NEC Laboratories Europe, Universidad Carlos III de Madrid, IMDEA Networks, Nokia, FiberCop, Canary Bit and Real Wireless.&lt;/p&gt;
+&lt;p&gt;The evolution toward 6G networks requires fundamental architectural innovations that can simultaneously lower costs, improve sustainability, and enable new services. The current landscape remains fragmented, often energy intensive, and heavily dependent on proprietary solutions, limiting the ability of operators to meet future performance, resilience, and sovereignty requirements.&lt;/p&gt;
+&lt;p&gt;PROSPERO addresses these challenges by proposing a Uniform, Integrated and Simplified (UIS) 6G architecture that unifies connectivity, intelligence and sustainability within a coherent framework. The project is framed around three operator-driven business cases: lowering Total Cost of Ownership, enabling new revenue sources, and reinforcing network resiliency. To achieve these objectives, PROSPERO introduces five strategic paradigms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;architectural simplification&lt;/strong&gt; to reduce fragmentation and deployment costs;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;global operations&lt;/strong&gt; that enable trusted collaboration across multiple stakeholders;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;native integration of AI&lt;/strong&gt; for automation and novel services;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;sustainability by design&lt;/strong&gt; through energy-aware mechanisms and resource-efficient programming;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;seamless management frameworks&lt;/strong&gt; for resources, functions and AI models across heterogeneous domains.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These paradigms are translated into concrete solutions that will be designed and validated through targeted Proofs of Concept to demonstrate both technical feasibility and operator relevance. WP2 is responsible for defining the system requirements, the business cases and the design of the UIS architecture components and interfaces that the rest of the project builds upon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ORIGAMI</title>
       <link>/project/origami/</link>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/project/origami/</guid>
-      <description>&lt;p&gt;ORIGAMI aims at spearheading the next-generation of mobile network architectures, overcoming eight factual barriers to a successful 6G future. To this end, the project proposes three critical architectural innovations -Global Service-based Architecture (GSBA), Zero-Trust Exposure Layer (ZTL), and Compute Continuum Layer (CCL)- and multiple Network Intelligence (NI) solutions empowered by such innovations. Thanks to its contributions, ORIGAMI strives to create global single standards, promote green transition, boost affordability and accessibility, and inspire ground-breaking applications and fresh business models.
-More precisely, the novel GSBA proposed by ORIGAMI will streamline communication and interoperability across network planes, paving the way for truly global standards. The AI-aided CCL will democratize access to extremely heterogeneous computing resources and will boost resource sharing with reliability guarantees, encouraging green transition, sustainability and greater accessibility. In turn, the ZTL will enable third-party players to securely program their virtual networks in zero-trust arenas, driving innovative high-value applications and creative business models. ORIGAMI will also emphasize a robust design of AI/ML models that is tailored to the unique requirements of network environments, and that is dependable, explainable, and unbiased; this will foster a reliable 6G system that avoids corner case errors, setting the stage for a more connected, efficient, and sustainable telecommunications future.
-To assess the effectiveness of the proposed innovations, ORIGAMI will carry out eight real-world demonstrations across six experimental sites and two large-scale international datasets from two major operators and validate its findings against twelve ambitious KPI targets.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;ORIGAMI&lt;/strong&gt; (&lt;em&gt;Optimized Resource Integration and Global Architecture for Mobile Infrastructure for 6G&lt;/em&gt;) is a Horizon Europe project funded by the Smart Networks and Services Joint Undertaking (SNS JU), coordinated by Telefónica I+D, with NEC Laboratories Europe as a partner.&lt;/p&gt;
+&lt;p&gt;ORIGAMI aims at spearheading the next-generation of mobile network architectures, overcoming eight factual barriers to a successful 6G future. To this end, the project proposes three critical architectural innovations -Global Service-based Architecture (GSBA), Zero-Trust Exposure Layer (ZTL), and Compute Continuum Layer (CCL)- and multiple Network Intelligence (NI) solutions empowered by such innovations. Thanks to its contributions, ORIGAMI strives to create global single standards, promote green transition, boost affordability and accessibility, and inspire ground-breaking applications and fresh business models.&lt;/p&gt;
+&lt;p&gt;More precisely, the novel GSBA proposed by ORIGAMI will streamline communication and interoperability across network planes, paving the way for truly global standards. The AI-aided CCL will democratize access to extremely heterogeneous computing resources and will boost resource sharing with reliability guarantees, encouraging green transition, sustainability and greater accessibility. In turn, the ZTL will enable third-party players to securely program their virtual networks in zero-trust arenas, driving innovative high-value applications and creative business models. ORIGAMI will also emphasize a robust design of AI/ML models that is tailored to the unique requirements of network environments, and that is dependable, explainable, and unbiased; this will foster a reliable 6G system that avoids corner case errors, setting the stage for a more connected, efficient, and sustainable telecommunications future.&lt;/p&gt;
+&lt;p&gt;To assess the effectiveness of the proposed innovations, ORIGAMI will carry out eight real-world demonstrations across six experimental sites and two large-scale international datasets from two major operators and validate its findings against twelve ambitious KPI targets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BeGREEN</title>
+      <link>/project/begreen/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/project/begreen/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;BeGREEN&lt;/strong&gt; (&lt;em&gt;Beyond 5G Artificial Intelligence Assisted Energy Efficient Open Radio Access Network&lt;/em&gt;) is a Horizon Europe project funded by the Smart Networks and Services Joint Undertaking (SNS JU) under the &lt;em&gt;Green Radio Technology&lt;/em&gt; call. The consortium is coordinated by Gigasys Solutions and brings together operators, vendors, research institutes and universities, including NEC Laboratories Europe.&lt;/p&gt;
+&lt;p&gt;Telecom operators account for 2-3% of global energy consumption, and around 70% of a mobile network&amp;rsquo;s energy is consumed in the Radio Access Network (RAN). BeGREEN takes a holistic view of evolving radio networks so that they not only accommodate increasing traffic and service levels, but also treat power consumption as a first-class design factor. Taking the emerging O-RAN architecture as its baseline, the project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;develops AI/ML-based solutions for RAN control at the non-real-time and near-real-time RAN Intelligent Controllers (RICs) to improve energy efficiency, addressing problems such as interference management, resource allocation, user-to-cell association and cell switching on/off;&lt;/li&gt;
+&lt;li&gt;designs energy-efficient hardware acceleration and distributed processing schemes for virtualized RAN functions;&lt;/li&gt;
+&lt;li&gt;explores joint communication and sensing, digital twins, Reconfigurable Intelligent Surfaces (RIS) and cell-free architectures as means to deliver capacity with lower power consumption;&lt;/li&gt;
+&lt;li&gt;establishes a techno-economic basis to assess technology choices with energy efficiency as an explicit characteristic rather than an afterthought.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generative AI | Jose A. Ayala-Romero</title>
+    <link>/tag/generative-ai/</link>
+      <atom:link href="/tag/generative-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Generative AI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
+      <title>Generative AI</title>
+      <link>/tag/generative-ai/</link>
+    </image>
+    
+    <item>
+      <title>GENOME</title>
+      <link>/project/genome/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/project/genome/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;Principal Investigator (PI)&lt;/strong&gt; on behalf of NEC Laboratories Europe.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;GENOME&lt;/strong&gt; (&lt;em&gt;GENerative and connected intelligence for 6G Open ManagEment&lt;/em&gt;) is a Marie Skłodowska-Curie Actions (MSCA) Doctoral Network funded by Horizon Europe. It trains a cohort of doctoral candidates across academic and industrial partners in Europe, including i2CAT, NEC Laboratories Europe, the University of Oulu, the Jožef Stefan Institute, Telefónica and the Universitat Politècnica de Catalunya.&lt;/p&gt;
+&lt;p&gt;The steep increase in network management parameters calls for extreme automation as mobile networks evolve towards 6G, making it challenging for human operators to oversee and adjust the network in real time. GENOME leverages Generative AI, and in particular distributed, edge-friendly (small) language models, to automate the management of the open RAN and the edge-cloud continuum. Its research is organized top-down:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;intent translation:&lt;/strong&gt; multimodal telecom foundation models that translate high-level networking intents into tasks;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;task planning:&lt;/strong&gt; neuro-symbolic reasoning to plan network configurations, such as service function chains, in the O-RAN edge/cloud;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;connected intelligence:&lt;/strong&gt; multi-agent, multi-objective protocol learning among distributed network functions;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;trustworthiness:&lt;/strong&gt; explainability and robustness of AI-based network functions, in line with the EU AI Act.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Solutions are validated through system-level simulations and proofs of concept on the experimental platforms of the consortium partners, including NEC&amp;rsquo;s vRAN infrastructure.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

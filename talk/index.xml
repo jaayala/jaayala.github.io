@@ -5,12 +5,36 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hud7eee502c8d18cf9064011c1bd3c17da_4049_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>From Policy Learning to Autonomous Algorithm Design: AI for Network Optimization</title>
+      <link>/talk/2026_uc3m_seminar/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/talk/2026_uc3m_seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IEEE SPS 1st Winter School on AI for 6G Communications</title>
+      <link>/talk/2025_winter_school/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/2025_winter_school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Efficient Orchestration of virtualized RANs: Experimental Analysis and Bayesian Learning</title>
+      <link>/talk/2023_banyan/</link>
+      <pubDate>Wed, 24 May 2023 09:30:00 +0200</pubDate>
+      <guid>/talk/2023_banyan/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
